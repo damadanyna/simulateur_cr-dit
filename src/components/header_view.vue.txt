@@ -1,0 +1,19 @@
+<template >
+    <div class=" bg-white text-stone border-b w-full border-gray-200 p-4  flex justify-between items-center">
+        <div class="flex flex-row"> 
+            <img src="../assets/logo.webp" class=" h-12" alt="" srcset="">
+            <div class=" flex flex-col ml-7">
+                <h1 class="text-xl font-bold text-green-800">Simulateur de Prêt</h1>
+                <p class="text-sm text-stone-500">Calculez vos mensualités et votre tableau d'amortissement</p>
+            </div>
+        </div> 
+    </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style></style>
